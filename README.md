@@ -2,6 +2,16 @@
 
 A Windows app (WPF, .NET 8) for opening and analyzing iOS crash reports (`.ips`, `.crash`).
 
+## Download
+
+[![Download](https://img.shields.io/github/v/release/promoservice2014-svg/IPS-Crash-Readrer?label=Download&style=for-the-badge)](https://github.com/promoservice2014-svg/IPS-Crash-Readrer/releases/tag/Prod)
+
+**[⬇ Download IpsReader.exe](https://github.com/promoservice2014-svg/IPS-Crash-Readrer/releases/download/Prod/IpsReader.exe)** · [Release notes](https://github.com/promoservice2014-svg/IPS-Crash-Readrer/releases/tag/Prod)
+
+A single self-contained executable: nothing to install, runs on Windows 10/11 x64 (and on ARM64 through emulation).
+Download it and double-click it. Windows SmartScreen may warn that the app is unrecognized because it isn't code-signed:
+choose **More info → Run anyway**.
+
 ## Features
 
 - **Summary**: app, version, device (marketing name), iOS version, exception and an **automatic diagnosis**:
